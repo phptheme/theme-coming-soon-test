@@ -1,0 +1,7 @@
+{
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "phptheme/theme-coming-soon": "dev-master"
+    }
+}

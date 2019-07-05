@@ -1,0 +1,101 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "0aa8f5f868c4921a5e65f90cecee13b6",
+    "packages": [
+        {
+            "name": "phptheme/core",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phptheme/core.git",
+                "reference": "4aa806f3a8c17ba2c52938fe50aa3019c5cd3a4e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phptheme/core/zipball/4aa806f3a8c17ba2c52938fe50aa3019c5cd3a4e",
+                "reference": "4aa806f3a8c17ba2c52938fe50aa3019c5cd3a4e",
+                "shasum": ""
+            },
+            "require": {
+                "phptheme/view": "dev-master"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "PhpTheme\\Core\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "time": "2019-07-05T15:39:34+00:00"
+        },
+        {
+            "name": "phptheme/theme-coming-soon",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phptheme/theme-coming-soon.git",
+                "reference": "805b41c4750d230cc994d88399ca6eee443ef9fb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phptheme/theme-coming-soon/zipball/805b41c4750d230cc994d88399ca6eee443ef9fb",
+                "reference": "805b41c4750d230cc994d88399ca6eee443ef9fb",
+                "shasum": ""
+            },
+            "require": {
+                "phptheme/core": "dev-master"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "PhpTheme\\ComingSoonTheme\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "time": "2019-07-05T15:42:32+00:00"
+        },
+        {
+            "name": "phptheme/view",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phptheme/view.git",
+                "reference": "b213532397a5516510345c88211e82d4750f2c8e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phptheme/view/zipball/b213532397a5516510345c88211e82d4750f2c8e",
+                "reference": "b213532397a5516510345c88211e82d4750f2c8e",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "PhpTheme\\View\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "time": "2019-07-05T15:35:14+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "phptheme/theme-coming-soon": 20
+    },
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
