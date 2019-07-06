@@ -1,4 +1,4 @@
-# Coming Soon Theme Test
+# "Coming Soon" Theme Test
 
 ## Install
 
