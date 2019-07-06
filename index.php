@@ -8,6 +8,13 @@ $theme = new Theme;
 
 $theme->baseUrl = '/startbootstrap-coming-soon';
 
+$theme->beginContent();
+?>
+<p>We're working hard to finish the development of this site. Our target launch date is <strong>January 2019</strong>! Sign up for updates using the form below!</p>
+<?php
+
+$content = $theme->endContent();
+
 $theme->beginLayout([
     'title' => 'Coming Soon Template Demo!',
     'subscribeForm' => [
@@ -41,7 +48,7 @@ $theme->beginLayout([
 
 echo $theme->page([
     'title' => 'Coming Soon!',
-    'content' => file_get_contents(__DIR__ . '/index-text.php')
+    'content' => $content
 ]);
 
 $theme->endLayout();
