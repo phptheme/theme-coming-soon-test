@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phptheme/core.git",
-                "reference": "4aa806f3a8c17ba2c52938fe50aa3019c5cd3a4e"
+                "reference": "32440aeb3745ff6865b7eb548adb95e85bc0c79f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phptheme/core/zipball/4aa806f3a8c17ba2c52938fe50aa3019c5cd3a4e",
-                "reference": "4aa806f3a8c17ba2c52938fe50aa3019c5cd3a4e",
+                "url": "https://api.github.com/repos/phptheme/core/zipball/32440aeb3745ff6865b7eb548adb95e85bc0c79f",
+                "reference": "32440aeb3745ff6865b7eb548adb95e85bc0c79f",
                 "shasum": ""
             },
             "require": {
@@ -33,7 +33,7 @@
             "license": [
                 "MIT"
             ],
-            "time": "2019-07-05T15:39:34+00:00"
+            "time": "2019-07-05T16:00:36+00:00"
         },
         {
             "name": "phptheme/theme-coming-soon",
@@ -41,12 +41,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phptheme/theme-coming-soon.git",
-                "reference": "805b41c4750d230cc994d88399ca6eee443ef9fb"
+                "reference": "003e2cc5f98214bf4524216943591f969d8f141d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phptheme/theme-coming-soon/zipball/805b41c4750d230cc994d88399ca6eee443ef9fb",
-                "reference": "805b41c4750d230cc994d88399ca6eee443ef9fb",
+                "url": "https://api.github.com/repos/phptheme/theme-coming-soon/zipball/003e2cc5f98214bf4524216943591f969d8f141d",
+                "reference": "003e2cc5f98214bf4524216943591f969d8f141d",
                 "shasum": ""
             },
             "require": {
@@ -59,7 +59,7 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2019-07-05T15:42:32+00:00"
+            "time": "2019-07-06T06:54:46+00:00"
         },
         {
             "name": "phptheme/view",
