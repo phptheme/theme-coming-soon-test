@@ -43,12 +43,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phptheme/theme-coming-soon.git",
-                "reference": "c3714a08bb970febc3a845183d37174a5583b74a"
+                "reference": "fb6f05e75d4edd5006353bc5717f4dca379f5e2b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phptheme/theme-coming-soon/zipball/c3714a08bb970febc3a845183d37174a5583b74a",
-                "reference": "c3714a08bb970febc3a845183d37174a5583b74a",
+                "url": "https://api.github.com/repos/phptheme/theme-coming-soon/zipball/fb6f05e75d4edd5006353bc5717f4dca379f5e2b",
+                "reference": "fb6f05e75d4edd5006353bc5717f4dca379f5e2b",
                 "shasum": ""
             },
             "require": {
@@ -61,7 +61,7 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2019-07-15T07:40:30+00:00"
+            "time": "2019-07-15T08:08:51+00:00"
         }
     ],
     "packages-dev": [],
