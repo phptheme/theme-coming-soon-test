@@ -12,28 +12,30 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phptheme/core.git",
-                "reference": "32440aeb3745ff6865b7eb548adb95e85bc0c79f"
+                "reference": "fe14e3ccf12117cad7191c48cd3660640169e6f4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phptheme/core/zipball/32440aeb3745ff6865b7eb548adb95e85bc0c79f",
-                "reference": "32440aeb3745ff6865b7eb548adb95e85bc0c79f",
+                "url": "https://api.github.com/repos/phptheme/core/zipball/fe14e3ccf12117cad7191c48cd3660640169e6f4",
+                "reference": "fe14e3ccf12117cad7191c48cd3660640169e6f4",
                 "shasum": ""
             },
             "require": {
-                "phptheme/view": "dev-master"
+                "composer-plugin-api": "^1.0"
             },
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "PhpTheme\\Core\\": ""
+                    "PhpTheme\\Core\\": "",
+                    "PhpTheme\\Helpers\\": "Helpers/",
+                    "PhpTheme\\Html\\": "Html/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
-            "time": "2019-07-05T16:00:36+00:00"
+            "time": "2019-07-14T05:40:46+00:00"
         },
         {
             "name": "phptheme/theme-coming-soon",
@@ -60,32 +62,6 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "time": "2019-07-06T06:54:46+00:00"
-        },
-        {
-            "name": "phptheme/view",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/phptheme/view.git",
-                "reference": "b213532397a5516510345c88211e82d4750f2c8e"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/phptheme/view/zipball/b213532397a5516510345c88211e82d4750f2c8e",
-                "reference": "b213532397a5516510345c88211e82d4750f2c8e",
-                "shasum": ""
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "PhpTheme\\View\\": ""
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "time": "2019-07-05T15:35:14+00:00"
         }
     ],
     "packages-dev": [],
