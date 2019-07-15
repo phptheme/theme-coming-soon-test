@@ -11,4 +11,4 @@ git clone https://github.com/BlackrockDigital/startbootstrap-coming-soon.git
 
 ## Usage
 
-Setup `theme-coming-soon-test` directory as test domain webroot, and run index.php from browser.
+Run "index.php" script by accessing the URL in a web browser.
