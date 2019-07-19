@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phptheme/core.git",
-                "reference": "fe14e3ccf12117cad7191c48cd3660640169e6f4"
+                "reference": "79615ef5f0251525070313d7d56201d07d08136d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phptheme/core/zipball/fe14e3ccf12117cad7191c48cd3660640169e6f4",
-                "reference": "fe14e3ccf12117cad7191c48cd3660640169e6f4",
+                "url": "https://api.github.com/repos/phptheme/core/zipball/79615ef5f0251525070313d7d56201d07d08136d",
+                "reference": "79615ef5f0251525070313d7d56201d07d08136d",
                 "shasum": ""
             },
             "require": {
@@ -35,7 +35,7 @@
             "license": [
                 "MIT"
             ],
-            "time": "2019-07-14T05:40:46+00:00"
+            "time": "2019-07-19T15:26:42+00:00"
         },
         {
             "name": "phptheme/theme-coming-soon",
@@ -43,12 +43,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phptheme/theme-coming-soon.git",
-                "reference": "fb6f05e75d4edd5006353bc5717f4dca379f5e2b"
+                "reference": "ec499f15814dbac0470a7b38a98dd12650253f9f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phptheme/theme-coming-soon/zipball/fb6f05e75d4edd5006353bc5717f4dca379f5e2b",
-                "reference": "fb6f05e75d4edd5006353bc5717f4dca379f5e2b",
+                "url": "https://api.github.com/repos/phptheme/theme-coming-soon/zipball/ec499f15814dbac0470a7b38a98dd12650253f9f",
+                "reference": "ec499f15814dbac0470a7b38a98dd12650253f9f",
                 "shasum": ""
             },
             "require": {
@@ -61,7 +61,7 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2019-07-15T08:08:51+00:00"
+            "time": "2019-07-15T08:45:27+00:00"
         }
     ],
     "packages-dev": [],
